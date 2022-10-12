@@ -2,9 +2,9 @@
 # I am a web developer:
 ## My Skills: C++, C#, Java, Python, Wordpress,Networking
 
-[<img src='https://img.icons8.com/color/344/facebook-new.png' alt='facebook' height='30'>](https://www.facebook.com/Mr.Mac.5494)
+[<img src='https://img.icons8.com/color/344/facebook-new.png' alt='facebook' height='30'>click here](https://www.facebook.com/Mr.Mac.5494)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/Mishuk45494)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>click here](https://github.com/Mishuk45494)
 
 <img align="left" width="300px" height="200px" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
