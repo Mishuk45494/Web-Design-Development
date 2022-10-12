@@ -1,7 +1,8 @@
 # Web Design & Development
 # I am a web developer:
 ## My Skills: C++, C#, Java, Python, Wordpress,Networking
-[<img src="https://static.xx.fbcdn.net/rsrc.php/y8/r/dF5SId3UHWd.svg">] (https://www.facebook.com/Mr.Mac.5494)
+
+[<img src='https://img.icons8.com/color/344/facebook-new.png' alt='facebook' height='30'>](https://www.facebook.com/Mr.Mac.5494)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/Mishuk45494)
 
