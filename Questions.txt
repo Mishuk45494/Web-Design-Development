@@ -1,0 +1,14 @@
+Website
+
+Static=Non Changeable
+Dynamic=Changeable
+
+Static= html,css,,JS,Bootstrap
+Dynamic=programming Languag-php, Server, DataBase
+
+Code Editor = Visual Studio Code.Sublime Text.Atom.Notepad++
+CoffeeCup HTML Editor.TextMate.Bluefish.Vim.
+Web Browser= Google Chrome,Mozila Firefox,Opera Mini, safari, Microsoft Eadge,
+Contant: text,img,audio,Video,
+
+Tags: Single Tag, Double Tag
